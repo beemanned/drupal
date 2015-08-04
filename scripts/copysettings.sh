@@ -1,4 +1,4 @@
-#!-bootcamp-bucket-17x24qjzi45mnin/bash
+#!/bin/bash
 
 #
 # Navigate to the Outputs tab of the CloudFormation stack to find the
