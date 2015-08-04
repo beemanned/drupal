@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #
 # Navigate to the Outputs tab of the CloudFormation stack to find the
 # name of your environment's bucket. Replace the value below with the
